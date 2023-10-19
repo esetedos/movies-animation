@@ -89,6 +89,8 @@ export default function App() {
             </PosterContainer>
           );
         }}
+        snapToInterval={CONSTANTS.ITEM_SIZE}
+        decelerationRate={0}
       />
     </Container>
   );
