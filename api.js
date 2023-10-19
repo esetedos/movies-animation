@@ -1,0 +1,1 @@
+import { API_KEY, GENRES } from "./.gitignore/config";
